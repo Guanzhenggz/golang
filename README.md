@@ -1,2 +1,2 @@
 # golang
-the golang programming repository
+The golang programming repository
